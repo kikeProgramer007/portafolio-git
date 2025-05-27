@@ -1,37 +1,190 @@
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hola, soy Enrique Condori
 
-# Hola, soy Enrique
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=150&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+la+Enseñanza+%F0%9F%93%9A;Siempre+Aprendiendo+Nuevas+Tecnologías+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-A brief description of what this project does and who it's for
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kikeProgramer007&label=Visitas%20al%20perfil&color=58A6FF&style=for-the-badge" alt="kikeProgramer007" />
+  <img src="https://img.shields.io/github/followers/kikeProgramer007?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kikeProgramer007?label=Stars&style=for-the-badge&color=58A6FF" alt="Stars" />
+</div>
 
+## 🎯 Sobre mí
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kikeProgramer007&theme=hacker&locale=es)](https://git.io/streak-stats)
+<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/2fa4d82d-3c5b-445e-bf04-0155ca05caf4">
 
-## Estadisticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikeProgramer007&show_icons=true&theme=chartreuse-dark&locale=es)
+- 🔭 Actualmente trabajo en **Sistemas Web y E-commerce**
+- 🌱 Aprendiendo **Nuevas tecnologías y frameworks**
+- 👨‍💻 Todos mis proyectos en [**kikeprogrammer.com**](https://kikeprogrammer.com/)
+- 📫 Contáctame: **xxsoyenriquexx25996@gmail.com**
+- ⚡ Fun fact: **Mi pasión es enseñar programación**
 
-## Other
+<br clear="both">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&hide_progress=false&theme=chartreuse-dark&locale=es)
+## 🌐 Conéctate conmigo
 
-## Other
+<div align="center">
+  <a href="https://www.linkedin.com/in/enrique-condori-224b72208" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/EnriquePlayer" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/condori2667/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://kikeprogrammer.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&theme=chartreuse-dark&locale=es)]
+## 🛠️ Stack Tecnológico
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&size_weight=0.5&count_weight=0.5&theme=chartreuse-dark&locale=es)
+<div align="center">
+  
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,gulp&theme=dark" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&langs_count=8&theme=chartreuse-dark&locale=es)
+### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,mongodb,mysql,php&theme=dark" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=compact&theme=chartreuse-dark&locale=es)
+### Herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=donut&theme=chartreuse-dark&locale=es)]
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=donut-vertical&theme=chartreuse-dark&locale=es)]
+## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&hide_progress=true&theme=chartreuse-dark&locale=es)
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kikeProgramer007&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=pie&theme=chartreuse-dark&locale=es)]
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kikeProgramer007&theme=transparent&hide_border=true&locale=es" alt="GitHub Streak" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&hide_progress=false&theme=chartreuse-dark&locale=es)
+## 🔥 Contribuciones
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kikeProgramer007&theme=react-dark&hide_border=true&area=true" alt="Gráfico de contribuciones" />
+</div>
 
-[![kikeProgramer007's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kikeProgramer007&theme=chartreuse-dark&locale=es)](https://wakatime.com/@kikeProgramer007)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kikeProgramer007&theme=react" alt="Profile Details" />
+</div>
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kikeProgramer007&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trofeos" />
+</div>
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+  
+| 🥇 | **Proyecto** | **Descripción** | **Demo** | **Tecnologías** |
+|:---:|:---|:---|:---:|:---:|
+| 1 | **Sistema Restaurante V2** | Sistema completo de gestión | [🔗 Demo](https://kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
+| 2 | **Sistema POS** | Punto de venta para restaurantes | [🔗 Demo](https://pos.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
+| 3 | **E-commerce** | Tienda online de alimentos | [🔗 Demo](https://pedidos.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
+| 4 | **Panadería Delivery** | Sistema con delivery integrado | [🔗 Demo](https://panaderia.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
+| 5 | **Sistema Ventas** | POS con tickets | [🔗 Demo](https://vendamos.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
+| 6 | **Sistema Farmacia** | Gestión farmacéutica | [🔗 Demo](https://farmacia.kikeprogrammer.com/) | `PHP` `MySQL` `JS` |
+
+</div>
+
+## 🎯 Proyectos Adicionales
+
+<details>
+<summary><b>📋 Ver más proyectos</b></summary>
+
+| # | **Proyecto** | **Demo** |
+|:---:|:---|:---:|
+| 7 | **CRUD & Backup BD** | [🔗 Demo](https://store.kikeprogrammer.com/) |
+| 8 | **CRUD PHP8** | [🔗 Demo](https://crud.soykike.com) |
+| 9 | **CRUD Laravel 7** | [🔗 Demo](https://laravel7crud.kikeprogrammer.com/) |
+| 10 | **Blog de Café** | [🔗 Demo](https://kikeprogramer007.github.io/WebCafe/) |
+| 11 | **Bienes Raíces** | [🔗 Demo](https://kikeprogramer007.github.io/BienesRaices/) |
+| 12 | **Matrix Effect** | [🔗 Demo](https://kikeprogramer007.github.io/fondobinario1/) |
+
+</details>
+
+## 💻 Estadísticas de Codificación
+
+<!--START_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kikeProgramer007&theme=react&hide_border=true&bg_color=0D1117&locale=es" alt="WakaTime stats" />
+</div>
+<!--END_SECTION:waka-->
+
+## 🐍 Contribuciones Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kikeProgramer007/kikeProgramer007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kikeProgramer007/kikeProgramer007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kikeProgramer007/kikeProgramer007/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 📊 Métricas Detalladas
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kikeProgramer007&theme=react&locale=es" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kikeProgramer007&theme=react&locale=es" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kikeProgramer007&theme=react&locale=es" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kikeProgramer007&theme=react&locale=es" alt="Lenguaje con más commit" />
+</div>
+
+## 🎨 Lenguajes Favoritos
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=donut-vertical&theme=transparent&hide_border=true&locale=es" alt="Lenguajes Donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&locale=es" alt="Top 10 Lenguajes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikeProgramer007&layout=pie&theme=transparent&hide_border=true&locale=es" alt="Lenguajes Donut" />
+
+</div>
+
+## 📌 Repositorios Destacados
+
+<div align="center">
+  <a href="https://github.com/kikeProgramer007/kikeProgramer007">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kikeProgramer007&repo=kikeProgramer007&theme=react&hide_border=true&bg_color=0D1117" alt="Repo Card" />
+  </a>
+</div>
+
+## 💡 Frase del día
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=58A6FF" alt="Footer" />
+  
+  <p>
+    <img src="https://img.shields.io/badge/De-Enrique%20Condori-58A6FF?style=for-the-badge" alt="From Enrique" />
+    <img src="https://img.shields.io/badge/Con-❤️-58A6FF?style=for-the-badge" alt="With Love" />
+    <img src="https://img.shields.io/badge/Para-La%20Comunidad-58A6FF?style=for-the-badge" alt="For Community" />
+  </p>
+</div>
