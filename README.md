@@ -1,7 +1,7 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hola, soy Enrique Condori
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=150&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+la+Enseñanza+%F0%9F%93%9A;Siempre+Aprendiendo+Nuevas+Tecnologías+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+la+Enseñanza+%F0%9F%93%9A;Siempre+Aprendiendo+Nuevas+Tecnologías+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -80,11 +80,11 @@
 ## 🔥 Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kikeProgramer007&theme=react-dark&hide_border=true&area=true" alt="Gráfico de contribuciones" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kikeProgramer007&theme=react-dark&hide_border=true&area=true&custom_title=Gráfico%20de%20Contribuciones%20de%20Enrique%20Condori&locale=es" alt="Gráfico de contribuciones" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kikeProgramer007&theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kikeProgramer007&theme=transparent&locale=es" alt="Profile Details" />
 </div>
 
 ## 🏆 Trofeos de GitHub
@@ -145,13 +145,13 @@
 ## 📊 Métricas Detalladas
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kikeProgramer007&theme=react&locale=es" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kikeProgramer007&theme=react&locale=es" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kikeProgramer007&theme=transparent&locale=es" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kikeProgramer007&theme=transparent&locale=es" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kikeProgramer007&theme=react&locale=es" alt="Repos per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kikeProgramer007&theme=react&locale=es" alt="Lenguaje con más commit" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kikeProgramer007&theme=transparent&locale=es" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kikeProgramer007&theme=transparent&locale=es" alt="Lenguaje con más commit" />
 </div>
 
 ## 🎨 Lenguajes Favoritos
@@ -163,24 +163,40 @@
 
 </div>
 
-## 📌 Repositorios Destacados
+## 🚀 Repositorios Destacados
 
 <div align="center">
-  <a href="https://github.com/kikeProgramer007/kikeProgramer007">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kikeProgramer007&repo=kikeProgramer007&theme=react&hide_border=true&bg_color=0D1117" alt="Repo Card" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/kikeProgramer007/kikeProgramer007">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kikeProgramer007&repo=kikeProgramer007&theme=transparent&show_owner=true" alt="Perfil GitHub" width="100%">
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/kikeProgramer007/DetalleRomantico">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kikeProgramer007&repo=DetalleRomantico&theme=transparent&show_owner=true" alt="Detalle Romántico" width="100%">
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/kikeProgramer007/flores-amarillas">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kikeProgramer007&repo=flores-amarillas&theme=transparent&show_owner=true" alt="Flores Amarillas" width="100%">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 💡 Frase del día
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&locale=es" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=58A6FF" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=58A6FF" alt="Footer" />
   
   <p>
     <img src="https://img.shields.io/badge/De-Enrique%20Condori-58A6FF?style=for-the-badge" alt="From Enrique" />
