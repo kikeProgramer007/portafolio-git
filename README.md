@@ -14,11 +14,12 @@
 
 <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/2fa4d82d-3c5b-445e-bf04-0155ca05caf4">
 
-- 🔭 Actualmente trabajo en **Sistemas Web y E-commerce**
+- 🔭 Actualmente trabajo en **Digicert S.R.L**
 - 🌱 Aprendiendo **Nuevas tecnologías y frameworks**
 - 👨‍💻 Todos mis proyectos en [**kikeprogrammer.com**](https://kikeprogrammer.com/)
 - 📫 Contáctame: **xxsoyenriquexx25996@gmail.com**
 - ⚡ Fun fact: **Mi pasión es enseñar programación**
+- 🔗 Mi [Portafolio](https://kikeprogramer007.github.io/cv/)
 
 <br clear="both">
 
